@@ -9,10 +9,6 @@ It performs basic arithmetic operations with a clean, responsive UI.
 - Decimal point support
 - Dark-themed interface with hover effects
 
-🖥️ Demo
-
-- 👉 Live Demo on GitHub Pages
-
 📂 Project Structure
 
 - index.html → Calculator layout
@@ -25,7 +21,7 @@ It performs basic arithmetic operations with a clean, responsive UI.
 - JavaScript (ES6)
 
 📸 Screenshot
- -- screenshot.png
+![Calculator Screenshot](screenshot.png)  
 
 📌 How to Use
 - Clone this repository:
