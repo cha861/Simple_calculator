@@ -21,7 +21,7 @@ It performs basic arithmetic operations with a clean, responsive UI.
 - JavaScript (ES6)
 
 📸 Screenshot
-![Calculator Screenshot](screenshot.png)  
+![Calculator Screenshot](screenshot.png.png)  
 
 📌 How to Use
 - Clone this repository:
