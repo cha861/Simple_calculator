@@ -1,6 +1,6 @@
-Simple Calculator
+##Simple Calculator
 
-A simple, responsive, and interactive web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and offers a sleek, dark-themed UI with smooth hover effects.
+--- A simple, responsive, and interactive web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and offers a sleek, dark-themed UI with smooth hover effects.
 
 🚀 Features
 
